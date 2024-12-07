@@ -18,12 +18,7 @@ python Website Application/app.py
 Access the application in your browser at `http://127.0.0.1:5000/`.
 
 ## Dataset
-We use the *Email Thread Summary* dataset from Hugging Face. 
-
-## Evaluation Metrics
-- **ROUGE**: Measures n-gram overlap between generated and reference summaries.
-- **G-Eval**: Evaluates linguistic quality (e.g., fluency, coherence).
-- **SummEval**: Combines automated and human-like scoring for relevance and readability.
+We use the *Email Thread Summary* dataset from Hugging Face. https://huggingface.co/datasets/sidhq/email-thread-summary
 
 ## Citation
 If you use this repository, please cite:
