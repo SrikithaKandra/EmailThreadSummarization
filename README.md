@@ -18,7 +18,7 @@ python Website Application/app.py
 Access the application in your browser at `http://127.0.0.1:5000/`.
 
 ## Dataset
-We use the *Email Thread Summary* dataset from Hugging Face. https://huggingface.co/datasets/sidhq/email-thread-summary
+We use the *Email Thread Summary* dataset from Hugging Face: https://huggingface.co/datasets/sidhq/email-thread-summary
 
 ## Citation
 If you use this repository, please cite:
